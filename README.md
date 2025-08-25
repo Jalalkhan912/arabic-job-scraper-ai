@@ -17,6 +17,8 @@ An intelligent n8n workflow that automatically scrapes job postings from multipl
 
 ## 🔧 Workflow Architecture
 
+![n8n Workflow Diagram](Job_Scraping.png)
+
 The workflow consists of 5 main stages:
 
 ### 1. **Web Scraping** 🕷️
