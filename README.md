@@ -130,7 +130,3 @@ The workflow includes error handling and logging:
 - **OpenAI** for AI-powered content generation
 - **WordPress** for the publishing platform
 - **Airtable** for data storage and management
-
----
-
-**⚠️ Note**: This workflow is designed for Arabic job content. Modify the AI prompts and category mappings for other languages or regions.
